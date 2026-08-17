@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-pzkea5.bokupaybymobile.com/sitemap.xml
